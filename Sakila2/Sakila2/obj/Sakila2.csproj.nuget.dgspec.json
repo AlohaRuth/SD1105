@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACT-Student\\Source\\Repos\\AlohaRuth\\SD1105\\Sakila2\\Sakila2\\Sakila2.csproj": {}
+    "C:\\Users\\ACT-Student\\source\\repos\\AlohaRuth\\SD1105\\Sakila2\\Sakila2\\Sakila2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACT-Student\\Source\\Repos\\AlohaRuth\\SD1105\\Sakila2\\Sakila2\\Sakila2.csproj": {
+    "C:\\Users\\ACT-Student\\source\\repos\\AlohaRuth\\SD1105\\Sakila2\\Sakila2\\Sakila2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACT-Student\\Source\\Repos\\AlohaRuth\\SD1105\\Sakila2\\Sakila2\\Sakila2.csproj",
+        "projectUniqueName": "C:\\Users\\ACT-Student\\source\\repos\\AlohaRuth\\SD1105\\Sakila2\\Sakila2\\Sakila2.csproj",
         "projectName": "Sakila2",
-        "projectPath": "C:\\Users\\ACT-Student\\Source\\Repos\\AlohaRuth\\SD1105\\Sakila2\\Sakila2\\Sakila2.csproj",
+        "projectPath": "C:\\Users\\ACT-Student\\source\\repos\\AlohaRuth\\SD1105\\Sakila2\\Sakila2\\Sakila2.csproj",
         "packagesPath": "C:\\Users\\ACT-Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACT-Student\\Source\\Repos\\AlohaRuth\\SD1105\\Sakila2\\Sakila2\\obj\\",
+        "outputPath": "C:\\Users\\ACT-Student\\source\\repos\\AlohaRuth\\SD1105\\Sakila2\\Sakila2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACT-Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
