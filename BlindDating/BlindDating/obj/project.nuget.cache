@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y1Ee6xBOQxqHbZ0Wv/f7elBlKJ6fF3D47UqNjip1wHfU2gOLM52e8p06l3dXGUHWmvgei3fOwzPsc8p8+ia58A==",
+  "dgSpecHash": "tnTEGBHAhkHXgkHIVbSD0QigmjzvxS+FmyNHfPFcfEG93jhvnf6OHIA4owzt43u8ZPODoIadttcQVwiisw8weQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACT-Student\\Documents\\WebandAppcourse\\SD1105\\Lesson 4\\BlindDating\\BlindDating\\BlindDating.csproj",
+  "projectFilePath": "C:\\Users\\ACT-Student\\source\\repos\\AlohaRuth\\SD1105\\BlindDating\\BlindDating\\BlindDating.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACT-Student\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\ACT-Student\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlindDating",
+    "\\DailyBlogger"
   ],
-  "SelectedNode": "\\Sakila2",
+  "SelectedNode": "\\DailyBlogger",
   "PreviewInSolutionExplorer": false
 }

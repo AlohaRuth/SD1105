@@ -12659,11 +12659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACT-Student\\Documents\\WebandAppcourse\\SD1105\\Lesson 4\\BlindDating\\BlindDating\\BlindDating.csproj",
+      "projectUniqueName": "C:\\Users\\ACT-Student\\Source\\Repos\\AlohaRuth\\SD1105\\BlindDating\\BlindDating\\BlindDating.csproj",
       "projectName": "BlindDating",
-      "projectPath": "C:\\Users\\ACT-Student\\Documents\\WebandAppcourse\\SD1105\\Lesson 4\\BlindDating\\BlindDating\\BlindDating.csproj",
+      "projectPath": "C:\\Users\\ACT-Student\\Source\\Repos\\AlohaRuth\\SD1105\\BlindDating\\BlindDating\\BlindDating.csproj",
       "packagesPath": "C:\\Users\\ACT-Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACT-Student\\Documents\\WebandAppcourse\\SD1105\\Lesson 4\\BlindDating\\BlindDating\\obj\\",
+      "outputPath": "C:\\Users\\ACT-Student\\Source\\Repos\\AlohaRuth\\SD1105\\BlindDating\\BlindDating\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACT-Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
